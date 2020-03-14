@@ -1,7 +1,5 @@
 # CMSI 186 Lab 2 Virtual Darts Starter Code
 
-This repository contains some unfinished Java programs that you are complete.
+In this Lab you can find out the odds of someone having the same birthday by throwing a virtual dart to find the estimate answer of how many people share  a birthday.
 
-Import this repository into a new repository of your own and write the code according to the lab [instructions](https://cs.lmu.edu/~ray/classes/plab/lab/2/). Use the provided test scripts.
-
-In your new repository, don’t forget to edit this README file, as _your_ repository will certainly not contain any unfinished Java programs.
+The area of the unit circle is π, and the area of the square this circle inscribes is 4, you can throw a bunch of darts in the square and see what percentage of them end up in the circle.
